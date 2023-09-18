@@ -11281,6 +11281,7 @@ html {
 body {
   position: relative;
   overflow-x: hidden;
+  justify-content: center;
 }
 
 p {
